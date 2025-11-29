@@ -10,6 +10,9 @@
 
 
 ### 💻Skillsets⚙️
-
+* **Programming:** Java
+* **Databases:** SQL, IBM DB2 Cloud
+* **Tools:** LucidChart, IntelliJ IDEA, Visual Studio Code, HTML
 
 ### 📨Let's Connect📧
+* **Email:** janellemrizo@gmail.com
