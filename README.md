@@ -1,5 +1,5 @@
 # Hello there, I'm Janelle Rane Rizo! 👋
-
+Welcome to my GitHub profile! I'm a **BS Information Technology** student who loves turning ideas into working solutions through code and databases. Always learning, always building.
 
 ### 🎓Education📚
 * BS Information Technology
