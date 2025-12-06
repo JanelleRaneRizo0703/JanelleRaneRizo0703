@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm a **BS Information Technology** student who lo
 #
 ### 📄Certifications📜
 * [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/4018e51f56114d5c9de2e1541f6d31a2)
+* [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=390698FDD1D920500C5F776CD8832CF07D285EC6DF1EC5923BB8404B567BF345)
 #
 ### 💻Skillsets⚙️
 * **Programming:** HTML, CSS, Javascript, Java
